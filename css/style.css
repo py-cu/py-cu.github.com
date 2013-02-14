@@ -1,0 +1,11 @@
+body {
+	padding-top:60px;
+}
+
+h2 {
+	text-align: center;
+}
+
+h2#shead {
+	text-align: left;
+}
