@@ -19,12 +19,12 @@ Gabe Weaver will be talking about his XUTools project, it's motivations and
 implementation in python. He desribes XUTools as:
 
 >Our eXtended Unix tools (XUTools)
-extend traditional Unix tools to process a broader class of
-languages in which security-policies are expressed.  XUTools is
-already in demand by a variety of practitioners and articles on our
-research have been featured in various news outlets such as
-ComputerWorld, CIO Magazine, Communications of the ACM, and Hacker
-News.
+>extend traditional Unix tools to process a broader class of
+>languages in which security-policies are expressed.  XUTools is
+>already in demand by a variety of practitioners and articles on our
+>research have been featured in various news outlets such as
+>ComputerWorld, CIO Magazine, Communications of the ACM, and Hacker
+>News.
 
 ### Lightning Talks
 Lightning talks are short talks. (<a href="http://en.wikipedia.org/wiki/Lightning_talk">

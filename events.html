@@ -6,7 +6,7 @@ layout: default
 </div>
 <div class="row-fluid">
   <div class="span2">
-    <h2> Upcoming </h2>
+    <h4> Upcoming </h4>
     <ul>
       {% for post in site.posts limit:1 %}
       <li>
@@ -14,7 +14,7 @@ layout: default
       </li>
       {% endfor %}
     </ul>
-    <h2>Past Events</h2>
+    <h4>Past Events</h4>
     <ul>
       {% for post in site.posts offset:1 %}
       <li> <a href="{{post.url}}"> {{ post.date | date:"%B %d, %Y" }}</a></li>
@@ -24,7 +24,7 @@ layout: default
   </div>
   <div class="span8">
     {% for post in site.posts limit:1 %}
-    <h2 class="shead">post.title</h3>
+    <h3 class="shead">{{post.title}}</h3>
     {{ post.content }}
     {% endfor %}
   </div>
