@@ -1,81 +1,50 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="UTF-8">
-    <title>Champaign-Urbana Python User's group</title>
-    <link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
-    <link href="css/style.css" rel="stylesheet" media="screen">
-  </head>
-  <body>
-    <div class="navbar navbar-inverse navbar-fixed-top">
-      <div class="navbar-inner">
-        <div class="container">
-          <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </button>
-          <a class="brand" href="index.html">PyCU</a>
-          <div class="nav-collapse collapse">
-            <ul class="nav">
-              <li class="active"><a href="#">Home</a></li>
-              <li><a href="events.html">Events</a></li>
-              <li><a href="about.html">About</a></li>
-              <li><a href="contact.html">Contact</a></li>
-            </ul>
-          </div><!--/.nav-collapse -->
-        </div>
-      </div>
-    </div>
+---
+layout: default
+---
 
-    <div class="container-fluid">
-      <div class="row-fluid">
-        <img alt="logo" src="img/py-cu-logo.png">
-      </div>
-      <div class="row-fluid">
-        <div class="span9 offset3">
-          <h1>Welcome to <strong>py-cu.org</strong></h1>
-          <blockquote class="span6">Py-CU is a the Champaign-Urbana Python user's group. We are a bunch of
-          people who want to get together to learn, teach, share and discuss about
-          all things related to the python programming language.
-          </blockquote>
-        </div>
-      </div>
-      <div class = "row-fluid">
-        <div class="span3 offset1">
-          <h2>Contact us</h2>
+<div class="row-fluid">
+  <img alt="logo" src="img/py-cu-logo.png">
+</div>
+<div class="row-fluid">
+  <div class="span9 offset3">
+    <h1>Welcome to <strong>py-cu.org</strong></h1>
+    <blockquote class="span6">Py-CU is a the Champaign-Urbana Python user's group. We are a bunch of
+    people who want to get together to learn, teach, share and discuss about
+    all things related to the python programming language.
+    </blockquote>
+  </div>
+</div>
+<div class = "row-fluid">
+  <div class="span3 offset1">
+    <h2>Contact us</h2>
 
-          You can email our <a href="mailto:py-cu@lists.py-cu.org">mailing list</a><br>
+    You can email our <a href="mailto:py-cu@lists.py-cu.org">mailing list</a><br>
 
-          Or check out our <a
-            href="http://www.facebook.com/groups/115113665332255/">FB group</a><br>
+    Or check out our <a
+      href="http://www.facebook.com/groups/115113665332255/">FB group</a><br>
 
-          Hit us up on <a href="https://github.com/py-cu">github</a> or <a
-            href="https://twitter.com/py_cu">twitter</a><br>
-        </div>
-        <div class="span3 ">
-          <h2>Events</h2>
-          <ul>
-            <li>February 15, 2013: Join us for our inaugural event at the
-                Champaign Public Library! <a href="events.html">Event details.</a>
-            </li>
-          </ul>
-        </div>
-        <div class="span3 ">
-          <h2>General info</h2>
-          For more info on Py-CU like who we are and how we work, check out
-          <a href="about.html"> our info page!</a>
-        </div>
+    Hit us up on <a href="https://github.com/py-cu">github</a> or <a
+      href="https://twitter.com/py_cu">twitter</a><br>
+  </div>
+  <div class="span3 ">
+    <h2>Events</h2>
+    {% for post in site.posts limit:1 %}
+    {{post.date | date:"%B %d, %Y" }}: {{ post.title}}<br/>
+    {{post.slug}} <a href="{{ post.url }}">Details</a>
+    {% endfor %}
+  </div>
+  <div class="span3 ">
+    <h2>General info</h2>
+    For more info on Py-CU like who we are and how we work, check out
+    <a href="about.html"> our info page!</a>
+  </div>
 
-        <div id="footer">
-          <a href="https://twitter.com/py_cu"
-            class="twitter-follow-button" data-show-count="false"
-            data-size="large">Follow @py_cu</a>
-          <script>!function(d,s,id){var
-            js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-        </div>
+  <div id="footer">
+    <a href="https://twitter.com/py_cu"
+      class="twitter-follow-button" data-show-count="false"
+      data-size="large">Follow @py_cu</a>
+    <script>!function(d,s,id){var
+      js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+  </div>
 
-      </div>
-    </div>
-  </body>
-</html>
+</div>
