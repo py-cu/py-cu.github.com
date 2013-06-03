@@ -8,7 +8,6 @@ Come join us at the Champaign Public Library, in the Robeson Pavillion Room C,
 6:30 PM - 8:30 PM. 
 
 Agenda:
-* Opening
 * Lightning Talks
 * Main Talk: (tbd)
 * Birds of a Feather breakout sessions.
