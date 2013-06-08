@@ -3,11 +3,23 @@
   <head>
     <meta charset="UTF-8">
     <title>Champaign-Urbana Python User's group</title>
-    <link href="/css/bootstrap.min.css" rel="stylesheet" media="screen">
+    <!--
+    <link href="{{ site.baseurl }}/css/bootstrap.min.css" rel="stylesheet" media="screen">
+    -->
     <link href="/css/style.css" rel="stylesheet" media="screen">
+
+    <link rel="stylesheet" href="/css/themes/cerulean/bootstrap.css">
+    <link rel="stylesheet" href="/css/bootstrap-responsive.css">
+    <link rel="stylesheet" href="/css/pycu.css">
+    <!--
+    <link rel="stylesheet" href="https://djyhxgczejc94.cloudfront.net/builds/80037b02082b29f5f9cea127cab2a4ba4365ec67.css">
+    -->
+    <script src="/js/jquery.min.js"></script>
+    <script src="/js/bootstrap.min.js"></script>
+
   </head>
   <body>
-    <div class="navbar navbar-inverse navbar-fixed-top">
+    <div class="navbar navbar-inverse navbar-fixed-top" >
       <div class="navbar-inner">
         <div class="container">
           <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
@@ -15,10 +27,10 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="brand" href="/index.html">PyCU</a>
+          <a class="brand" href="/index.html">Py-CU</a>
           <div class="nav-collapse collapse">
             <ul class="nav">
-              <li class="active"><a href="#">Home</a></li>
+            <!-- <li class="active"><a href="#">Home</a></li>-->
               <li><a href="/events.html">Events</a></li>
               <li><a href="/about.html">About</a></li>
               <li><a href="/contact.html">Contact</a></li>
@@ -31,7 +43,7 @@
     <div class="container-fluid">
       {{ content }}
     </div>
-    
+
 <script type="text/javascript">
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-39486817-1']);

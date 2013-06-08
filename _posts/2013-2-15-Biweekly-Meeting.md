@@ -14,7 +14,7 @@ Agenda:
 * Birds of a Feather breakout sessions - 7:30 - whenever
 </ul>
 
-### Main Talk
+#### Main Talk
 Gabe Weaver will be talking about his XUTools project, it's motivations and
 implementation in python. He desribes XUTools as:
 
@@ -26,19 +26,19 @@ implementation in python. He desribes XUTools as:
 >ComputerWorld, CIO Magazine, Communications of the ACM, and Hacker
 >News.
 
-### Lightning Talks
+#### Lightning Talks
 Lightning talks are short talks. (<a href="http://en.wikipedia.org/wiki/Lightning_talk">
   More info</a>) They are generally introductions to a topic, or a rant, or a
 rave, or.... The talks are a maximum of 5 minutes and open to anyone, on a first-come first-serve
 basis. If you want to give a lightning talk, show up a bit early and get on the list!
 
-### Birds of a Feather Breakouts
+#### Birds of a Feather Breakouts
 After the "official" content, we'll be breaking out into
 <a href="http://en.wikipedia.org/wiki/Birds_of_a_feather_(computing)"> Birds of a Feather </a>
 sessions. The topics are fluid, but the idea is to find people with similar interests and
 hack, discuss, and generally have fun.
 
-### And finally....
+#### And finally....
 
 We would appreciate if you take some time to fill out this survey
 if you plan on coming to this, or any, event of ours, so we can use
