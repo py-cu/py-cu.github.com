@@ -3,3 +3,7 @@ source: .
 destination: ./_site
 lsi: false
 pygments: true
+
+name: Py-CU
+description: Py-CU is Champaign-Urbana's Python User Group
+url: http://py-cu.org
