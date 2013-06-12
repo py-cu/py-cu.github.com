@@ -12,3 +12,8 @@ This is a weekly Py-CU event for people to work on projects, seek assistance on
 projects, socialize, plan, and generally enjoy being around people who like to
 code, too. Individuals of all levels of programming experience are encouraged
 to come.
+
+#### *Update: what we talked about and worked on*
+* [CU Fab Lab's](http://cucfablab.org) [DustDuino](http://cucfablab.org/book/dustduino-plan-crowdsource-environmental-reporting-low-cost-dust-sensors)
+* WordPress, Twitter Bootstrap, Amazon Web Services
+* and more!
