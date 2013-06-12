@@ -4,8 +4,7 @@ title: Biweekly meeting
 slug: Join us for our next event at the Champaign Public Library!
 ---
 
-Come join us at the Champaign Public Library, in the Robeson Pavillion Room C,
-6:30 PM - 8:30 PM. 
+Come join us at the Champaign Public Library, in the Foundation Conference Room (Room 222, second floor), 6:30 PM - 8:30 PM. 
 
 Agenda:
 * Lightning Talks
