@@ -6,7 +6,7 @@ layout: nil
  
   <title>{{ site.name }}</title>
   <link href="http://py-cu.org"/>
-  <link type="application/atom+xml" rel="self" href="{{ site.url }}/atom.xml"/>
+  <link type="application/atom+xml" rel="self" href="{{ site.url }}/feeds/atom.xml"/>
   <updated>{{ site.time | date_to_xmlschema }}</updated>
   <id>http://py-cu.org/</id>
 
