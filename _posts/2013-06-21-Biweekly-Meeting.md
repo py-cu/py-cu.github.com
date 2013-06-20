@@ -12,8 +12,6 @@ Agenda:
 * Birds of a Feather breakout sessions.
 * And probably going out for drinks after!
 
-#### Main Talk
-(tbd)
 
 #### Breakout Sessions
-We will break out into various sessions, based on interests of the people present.
+We will break out into various sessions, based on interests of the people present. This week, we will either do this at the library or whichever bar or cafe we decide to visit when the library closes.
