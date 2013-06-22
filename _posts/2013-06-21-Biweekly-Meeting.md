@@ -24,6 +24,4 @@ We will break out into various sessions, based on interests of the people presen
 * the bpython interface to the Python interpreter
 * and more
 
-*Next time, we'll be back in our regular meeting room, Robeson Pavilion C,
-first floor of the Champaign Library.
-
+*Next time, we'll be back in our regular meeting room, Robeson Pavilion C, first floor of the Champaign Library.*
