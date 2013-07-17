@@ -12,3 +12,7 @@ This is a weekly Py-CU event for people to work on projects, seek assistance on
 projects, socialize, plan, and generally enjoy being around people who like to
 code, too. Individuals of all levels of programming experience are encouraged
 to come.
+
+#### What happened
+* Talked about lots of stuff, including all kinds of IDEs (ish), including: Eclipse, PyCharm, Dreampie, bpython, iPython
+* Some Coffeeshop Coders members joined us
