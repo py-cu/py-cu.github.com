@@ -10,19 +10,11 @@ Come join us at the Champaign Public Library, in Robeson Pavillion Room C (first
 Agenda:
 * Opening
 * Lightning Talks
-
-* Main Talk: 
-
- Future activities
-    * Python Dojo
-    * Forums
-    * Workshops
-    * Social Events
-    
+* Main Talk
 * Birds of a Feather breakout sessions.
 
 #### Main Talk
-We'll be discussing the groups direction this fall and near future
+We'll be discussing the groups direction this fall and near future, which include but are not limited to having a Python Dojo, forums, workshops, and social events. 
 
 #### Breakout Sessions
 We will break out into various sessions, based on interests of the people present.
