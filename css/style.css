@@ -9,3 +9,16 @@ h2 {
 h2#shead {
 	text-align: left;
 }
+
+/* Styles for embedded Gists in meetup notes */
+
+.gist h1, .gist h2, .gist h3, .gist h4, .gist h5, .gist h6 {
+  text-align: left;
+  color: #444;
+  text-shadow: none;
+  font-family: Franchise, Bebas, Nevis, sans-serif;
+}
+
+.gist p, .gist li {
+  font-family: Georgia, Garamond, serif;
+}
