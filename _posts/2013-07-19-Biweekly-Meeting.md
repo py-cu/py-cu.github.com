@@ -1,11 +1,11 @@
 ---
 layout: default
 title: Biweekly meeting
-slug: Join us for our next event at the Champaign Public Library!
+slug: Susan Potter presented a simple live coding session on Flask, a Python micro web framework with unittest integration
 ---
 
-Come join us at the Champaign Public Library, in Robeson Pavillion Room C (first floor, across from the coffeeshop),
-6:30 PM - 8:30 PM. 
+Held at the Champaign Public Library, in Robeson Pavillion Room C (first floor, across from the coffeeshop),
+6:30 PM - 8:30 PM.
 
 Agenda:
 * Opening
@@ -13,8 +13,27 @@ Agenda:
 * Main Talk
 * Birds of a Feather breakout sessions.
 
-#### Main Talk
-We'll be discussing the groups direction this fall and near future, which include but are not limited to having a Python Dojo, forums, workshops, and social events. 
+#### Main Talk: Notes
 
-#### Breakout Sessions
-We will break out into various sessions, based on interests of the people present.
+Last night [Susan Potter](https://github.com/mbbx6spp) presented a simple
+live coding session on Flask, a Python micro web framework with unittest
+integration.
+
+Follow along with the notes by cloning the Gist's git repository like this:
+
+```
+git clone https://gist.github.com/6043797.git acktacular
+cd acktacular
+echo "following needed because Gists do not allow for subdirectories"
+mkdir templates
+mv welcome.html templates/
+```
+
+Susan plans on updating this Gist as she develops the idea of Acktacular
+more.
+
+Susan wrote up some notes on this live coding session in the
+[Gist below](https://gist.github.com/mbbx6spp/6043797):
+
+<script src="https://gist.github.com/mbbx6spp/6043797.js"></script>
+
