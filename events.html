@@ -10,12 +10,10 @@ layout: default
     {% assign num_to_show = 1 %}
     {% for post in site.posts reversed %}                                  
         {% if i < num_to_show %}                                                     
-            {% if post.date >= site.time %}                                
-                {% if post.category == 'events' %}
+            {% if post.date >= site.time and post.category == 'events' %}
                     <li><a href="{{ post.url }}"> {{post.date | date:"%B %d, %Y" }}: {{ post.title}} </a>
                     {{post.slug}}</li>
                     {% assign i = i | plus: 1 %}                               
-                {% endif %}                                                    
             {% endif %}                                                    
         {% endif %}                                                        
     {% endfor %} 
@@ -25,10 +23,8 @@ layout: default
 <h4>Past Events</h4>
 <ul>
   {% for post in site.posts limit:100 %}
-      {% if post.date < site.time %}
-            {% if post.category == 'events' %}
+      {% if post.date < site.time and post.category == 'events' %}
             <li><a href="{{ post.url }}">{{post.date | date:"%B %d, %Y" }}: {{ post.title}}</a> </li>
-          {% endif %}
       {% endif %}
   {% endfor %}
 </ul>
@@ -38,16 +34,14 @@ layout: default
 <div class="span8">
 {% assign i = 0 %}                                                     
 {% assign num_to_show = 2 %}
-{% for post in site.posts reversed %}
+{% for post in site.posts reversed limit:2 %}
     {% if i < num_to_show %}                                                     
-        {% if post.date >= site.time %}
-            {% if post.category == 'events' %}
+        {% if post.date >= site.time and post.category == 'events' %}
             <h1 class="shead">{{post.title}}</h1>
             <p>{{ post.date | date:"%B %d, %Y" }}</p>
             <p> {{ post.content }}</p>
             <hr>
             {% assign i = i | plus: 1 %}                               
-          {% endif %}
         {% endif %}                                                    
     {% endif %}                                                    
 {% endfor %}
