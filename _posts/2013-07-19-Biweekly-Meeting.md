@@ -1,5 +1,6 @@
 ---
 layout: default
+category: events
 title: Biweekly meeting
 slug: Susan Potter presented a simple live coding session on Flask, a Python micro web framework with unittest integration
 ---

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Hack Session
+category: events
 slug: Share your skills and pick up some new ones at our weekly hack sessions!
 ---
 

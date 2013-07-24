@@ -1,5 +1,6 @@
 ---
 layout: default
+category: announcements 
 title: Announcement 
 slug: Call for Presenters!
 ---
