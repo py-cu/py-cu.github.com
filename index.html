@@ -17,19 +17,16 @@ layout: default
 
   <div class="row main-features">
 
-    <div class="span3">
+    <div class="span6">
       <div class="well">
         <h3>Announcements</h3>
             {% assign i = 0 %}
             {% for post in site.posts reversed %}
                 {% if i < 2 %}
-                    {% if post.date >= site.time %}
-                        {% if post.category == 'announcements' %}
-                            <p><a href="{{ post.url }}"> {{post.date | date:"%B %d, %Y" }}: {{ post.title}} </a>
-                            {{post.slug}} </p>
+                    {% if post.category == 'announcements' %}
+                            <p><a href="{{ post.url }}"> {{post.slug}} </a></p>
                             {% assign i = i | plus: 1 %}
                         {% endif %}
-                    {% endif %}
                 {% endif %}
             {% endfor %}
 
@@ -38,18 +35,16 @@ layout: default
       </div>
     </div>
 
-    <div class="span3">
+    <div class="span6">
       <div class="well">
         <h3>Next event</h3>
             {% assign i = 0 %}
             {% for post in site.posts reversed %}
                 {% if i < 1 %}
-                    {% if post.date >= site.time %}
-                        {% if post.category == 'events' %}
+                    {% if post.date >= site.time and post.category == 'events' %}
                             <p><a href="{{ post.url }}"> {{post.date | date:"%B %d, %Y" }}: {{ post.title}} </a>
                             {{post.slug}} </p>
                             {% assign i = i | plus: 1 %}
-                        {% endif %}
                     {% endif %}
                 {% endif %}
             {% endfor %}
@@ -59,8 +54,9 @@ layout: default
       </div>
     </div>
 
-
-    <div class="span3">
+    </div>
+  <div class="row main-features">
+    <div class="span6">
       <div class="well">
         <h3>General Info</h3>
         <p>We have two types of regular events:</p>
@@ -76,7 +72,7 @@ layout: default
 
 
 
-    <div class="span3">
+    <div class="span6">
       <div class="well">
         <h3>Contact Us</h3>
         <p>Email us at <a href="mailto:info@py-cu.org">info@py-cu.org</a>.</p>
