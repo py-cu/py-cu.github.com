@@ -1,0 +1,20 @@
+---
+layout: default
+---
+<div>
+<h2 style="text-align:left">Announcements</h2>
+<br />
+{% assign i = 0 %}                                                     
+{% assign num_to_show = 10 %}
+{% for post in site.posts reversed %}
+    {% if i < num_to_show %}                                                     
+            {% if post.category == 'announcements' %}
+            <p>{{ post.date | date:"%B %d, %Y" }}</p>
+            <p> {{ post.content }}</p>
+            <hr>
+            {% assign i = i | plus: 1 %}                               
+          {% endif %}
+    {% endif %}                                                    
+{% endfor %}
+
+</div>
