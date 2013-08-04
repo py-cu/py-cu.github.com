@@ -12,4 +12,4 @@ Urbana, from 7 to 9 PM.
 This is a weekly Py-CU event for people to work on projects, seek assistance on
 projects, socialize, plan, and generally enjoy being around people who like to
 code, too. Individuals of all levels of programming experience are encouraged
-to come.
+to come. 
