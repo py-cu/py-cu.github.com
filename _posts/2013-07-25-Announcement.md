@@ -9,4 +9,4 @@ slug: DevOps practices and lessons learned - a Tech Talk
 
 <p><a href="http://bit.ly/CUDevOps">More details</a></p>
 
-<img alt="DevOps Tech Talk flyer" src="/img/TechTalk-DevOps.png" style="width:700px" />
+<img alt="DevOps Tech Talk flyer" src="/img/TechTalk-DevOps.png" style="width:600px" />
