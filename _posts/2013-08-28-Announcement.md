@@ -1,8 +1,8 @@
 ---
 layout: default
-category: announcements 
-title: Announcement 
-slug: Py-CU Camp - Intro to programming tutorials
+category: announcements
+title: Announcement
+slug: Py-CU Camp - intro to programming tutorials
 ---
 
 #### Py-CU presents: Intro to programming with Python
