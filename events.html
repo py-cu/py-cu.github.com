@@ -6,17 +6,17 @@ layout: default
 
 <h4> Upcoming </h4>
 <ul>
-    {% assign i = 0 %}                                                     
+    {% assign i = 0 %}
     {% assign num_to_show = 1 %}
-    {% for post in site.posts reversed %}                                  
-        {% if i < num_to_show %}                                                     
+    {% for post in site.posts reversed %}
+        {% if i < num_to_show %}
             {% if post.date >= site.time and post.category == 'events' %}
                     <li><a href="{{ post.url }}"> {{post.date | date:"%B %d, %Y" }}: {{ post.title}} </a>
                     {{post.slug}}</li>
-                    {% assign i = i | plus: 1 %}                               
-            {% endif %}                                                    
-        {% endif %}                                                        
-    {% endfor %} 
+                    {% assign i = i | plus: 1 %}
+            {% endif %}
+        {% endif %}
+    {% endfor %}
 </ul>
 
 {% comment %}At most 100 events before right now. {% endcomment %}
