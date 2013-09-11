@@ -1,0 +1,31 @@
+---
+layout: default
+category: events
+title: Biweekly meeting
+slug: Join us for our next event at the Champaign Public Library!
+---
+
+Come join us at the Champaign Public Library, in our regular room this time
+(Robeson Pavilion Room C, first floor lobby area, right across from the
+coffeeshop stand), 6:30 PM - 8:30 PM.
+
+**The agenda includes:**
+
+* Main presentation: Mark Dewing will talk about using a wireless sensor to
+  measure outside temperature and displaying it on an LCD Display. The talk will
+  cover
+    <ul>
+        <li>Zigbee wireless, using the python-xbee library</li>
+        <li><code>struct</code> module from the standard library</li>
+    </ul>
+
+* We'll talk about choosing a new meeting time/day
+
+* Birds of a Feather sessions
+
+* We don't have a lightning talk this week, but we're up for anything, if
+you've got an idea for one.
+
+* Reminder: we'll be starting our series of beginner Python tutorials starting
+Monday, September 16, and we still need more people on the ground to provide
+individual help to the participants!
