@@ -67,6 +67,6 @@ coffeeshop stand), 6:30 PM - 8:30 PM.
   best things about these is our high instructor/helper to student ratio, so if
   anyone with some experience in Python would like to come to these to help out
   on the ground, that would be awesome. The next tutorial is taking place this
-  coming Monday, October 30th, 6:30 - 8:30 PM at <a
+  coming Monday, September 30th, 6:30 - 8:30 PM at <a
   href="http://cucfablab.org/">the Fab Lab</a>, located at <a
   href="http://goo.gl/maps/dKuLR">1301 S. Goodwin Ave. in Urbana</a>.
