@@ -38,14 +38,14 @@ coffeeshop stand), 6:30 PM - 8:30 PM.
 
 * **Python coding challenges**
 
-  We're exploring the idea of doing something like a Coding Dojo (i.e. "a
+  We're exploring the idea of doing something like a Coding Dojo, which is "a
   meeting where a bunch of coders get together to work on a programming
   challenge. They are there have fun and to engage in Deliberate Practice \[the
   idea that in order to get better at something, you need to practice\] . . .
   focussing on coding in front of others, most often something from
-  scratch, in a very short amount of time . . ."
-  (<a
-  href="http://codingdojo.org/cgi-bin/wiki.pl?WhatIsCodingDojo">http://codingdojo.org</a>) -- i.e. some
+  scratch, in a very short amount of time . . ." (<a
+  href="http://codingdojo.org/cgi-bin/wiki.pl?WhatIsCodingDojo">http://codingdojo.org</a>)
+  -- i.e. some
   regular Python challenges during our meetings that are meant to help us all
   sharpen our Python skills. Here's <a
   href="https://github.com/py-cu/pycu-coding-challenges">our GitHub repository</a> with a couple easy example
