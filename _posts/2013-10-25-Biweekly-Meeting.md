@@ -13,6 +13,3 @@ Kirby and State), Suite 200, in Champaign</a>. It's the same building as Wolfram
 
 Liz will be giving our main talk on Google Glass. Through a series of fortunate events, she was able to purchase one and she invites Py-CU members to make this session an interactive one as we discuss how this new wave of mobile technology can impact our lives. There will be Glass playtime as well. App and project ideas are welcome :)
 
-Here is a Google Docs Flyer for anyone interested. 
-
-![](https://docs.google.com/drawings/d/1if6625695EdUN3_6wWnJYwfs_k8_4gf6HlcstAYSsas/edit?usp=sharing)
