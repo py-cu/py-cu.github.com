@@ -2,7 +2,7 @@
 layout: default
 category: events
 title: Biweekly meeting
-slug: Join us for our next event at the Champaign Public Library!
+slug: Join us for our next general meeting at ARA!
 ---
 
 New meeting place!  This time we're meeting at Applied Research Associates,
