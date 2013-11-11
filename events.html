@@ -32,18 +32,22 @@ layout: default
 </div>
 
 <div class="span8">
+{% comment %}
 {% assign i = 0 %}                                                     
-{% assign num_to_show = 2 %}
-{% for post in site.posts reversed limit:2 %}
-    {% if i < num_to_show %}                                                     
+{% assign num_to_show = 4 %}
+{% endcomment %}
+{% for post in site.posts reversed limit:10 %}
+    {% comment %}  if i < num_to_show  {% endcomment %}
         {% if post.date >= site.time and post.category == 'events' %}
             <h1 class="shead">{{post.title}}</h1>
             <p>{{ post.date | date:"%B %d, %Y" }}</p>
             <p> {{ post.content }}</p>
+            i is {{ i }}
             <hr>
-            {% assign i = i | plus: 1 %}                               
-        {% endif %}                                                    
-    {% endif %}                                                    
+            {% comment %}{% assign i = i | plus: 1 %}{% endcomment %}
+        {% endif %}
+
+        {% comment %}  endif  {% endcomment %}
 {% endfor %}
 </div>
 
