@@ -42,7 +42,6 @@ layout: default
             <h1 class="shead">{{post.title}}</h1>
             <p>{{ post.date | date:"%B %d, %Y" }}</p>
             <p> {{ post.content }}</p>
-            i is {{ i }}
             <hr>
             {% comment %}{% assign i = i | plus: 1 %}{% endcomment %}
         {% endif %}
