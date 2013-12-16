@@ -12,6 +12,7 @@ Today we'll be following our new more structured format.
 * 30 minutes for main talk and Q&A
 or
 * 3x10 minutes lightnight talks
+
 This will be Roger's introduction of the Manual for Py-CU. From the last meeting notes, "The purpose of this document is to capture the necessary steps, leadership experience, etc, about the administrative requirements for running Py-CU, from web administration, group meetings, special events, etc."
 
 * 10 minutes birds of a feather 
@@ -19,6 +20,7 @@ This will be Roger's introduction of the Manual for Py-CU. From the last meeting
 * 10 minutes of group TILing (Today I Learned)
 
 * 20 minutes business/boring stuff
+
 This will include followup from our meeting with Makerspace Urbana on December 1.
 
 * 10 minutes planning for next time
