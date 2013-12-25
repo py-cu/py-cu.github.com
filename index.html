@@ -39,15 +39,16 @@ layout: default
       <div class="well">
         <h3>Recent and upcoming events:</h3>
             {% assign i = 0 %}
-            {% for post in site.posts reversed %}
+            {% for post in site.posts %}
                 {% if i < 2 %}
-                    {% if post.date >= site.time and post.category == 'events' %}
+                    {%  if post.category == 'events' %}
                             <p><a href="{{ post.url }}"> {{post.date | date:"%B %d, %Y" }}: {{ post.title}} </a>
                             {{post.slug}} </p>
                             {% assign i = i | plus: 1 %}
                     {% endif %}
                 {% endif %}
             {% endfor %}
+
 
 
         <a class="btn btn-success" href="events.html"><span class="btn-label">All events</span></a>
