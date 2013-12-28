@@ -22,7 +22,7 @@ layout: default
         <h3>Announcements</h3>
             {% assign i = 0 %}
             {% for post in site.posts %}
-                {% if i < 2 %}
+                {% if i < 3 %}
                     {% if post.category == 'announcements' %}
                             <p><a href="{{ post.url }}"> {{post.slug}} </a></p>
                             {% assign i = i | plus: 1 %}
