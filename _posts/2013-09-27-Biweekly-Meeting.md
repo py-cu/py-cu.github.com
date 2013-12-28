@@ -24,9 +24,7 @@ coffeeshop stand), 6:30 PM - 8:30 PM.
   Nadia and Liz will be busy with the Python Beginner Tutorial series until the
   end of October. We need to figure out whether we will keep our General
   Meetings on Fridays until the series is over or if there are people who can
-  fill in and lead meetings temporarily, through the end of October. *So if there is anyone who is willing
-  to lead meetings on Mondays after our September 27 meeting, please email us
-  <a href="mailto:info@py-cu.org?Subject=Temporarily%20leading%20PyCU%20meetings">info@py-cu.org</a>!*
+  fill in and lead meetings temporarily, through the end of October. *So if there is anyone who is willing to lead meetings on Mondays after our September 27 meeting, please email us <a href="mailto:info@py-cu.org?Subject=Temporarily%20leading%20PyCU%20meetings">info@py-cu.org</a>!*
 
 
 * **Birds of a Feather sessions**
