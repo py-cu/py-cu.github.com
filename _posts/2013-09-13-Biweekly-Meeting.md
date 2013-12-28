@@ -14,10 +14,8 @@ coffeeshop stand), 6:30 PM - 8:30 PM.
 * Main presentation: Mark Dewing will talk about <a href='https://github.com/markdewing/temperature-monitor'>using a wireless sensor to
   measure outside temperature and displaying it on an LCD Display</a>. The talk will
   cover
-    <ul>
-        <li>Zigbee wireless, using the python-xbee library</li>
-        <li><code>struct</code> module from the standard library</li>
-    </ul>
+  * Zigbee wireless, using the python-xbee library
+  * <code>struct</code> module from the standard library
 
 * We'll talk about choosing a new meeting time/day
 

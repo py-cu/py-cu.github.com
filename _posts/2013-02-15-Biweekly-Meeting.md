@@ -12,7 +12,6 @@ Agenda:
 * Lightning Talks - 6:45 - 7:15
 * Main Talk: Gabe Weaver, XUTools - 7:15 - 7:30
 * Birds of a Feather breakout sessions - 7:30 - whenever
-</ul>
 
 #### Main Talk
 Gabe Weaver will be talking about his XUTools project, it's motivations and

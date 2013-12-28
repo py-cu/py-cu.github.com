@@ -43,16 +43,12 @@ coffeeshop stand), 6:30 PM - 8:30 PM.
   challenge. They are there have fun and to engage in Deliberate Practice \[the
   idea that in order to get better at something, you need to practice\] . . .
   focussing on coding in front of others, most often something from
-  scratch, in a very short amount of time . . ." (<a
-  href="http://codingdojo.org/cgi-bin/wiki.pl?WhatIsCodingDojo">http://codingdojo.org</a>)
-  -- i.e. some
-  regular Python challenges during our meetings that are meant to help us all
-  sharpen our Python skills. Here's <a
-  href="https://github.com/py-cu/pycu-coding-challenges">our GitHub repository</a> with a couple easy example
-  challenges and <a
-  href="https://github.com/py-cu/pycu-coding-challenges/issues/1">some ideas
-  for more involved challenges</a>. If you'd like to contribute, <a
-  href="mailto:info@py-cu.org?Subject=PyCU%20coding%20dojo">email us at
+  scratch, in a very short amount of time . . ." (<a href="http://codingdojo.org/cgi-bin/wiki.pl?WhatIsCodingDojo">http://codingdojo.org</a>)
+  
+  These are regular Python challenges during our meetings that are meant to help us all
+  sharpen our Python skills. Here's <a href="https://github.com/py-cu/pycu-coding-challenges">our GitHub repository</a> with a couple easy example
+  challenges and <a href="https://github.com/py-cu/pycu-coding-challenges/issues/1">some ideas
+  for more involved challenges</a>. If you'd like to contribute, <a href="mailto:info@py-cu.org?Subject=PyCU%20coding%20dojo">email us at
   info@py-cu.org</a> and let us know.
 
 
@@ -67,6 +63,4 @@ coffeeshop stand), 6:30 PM - 8:30 PM.
   best things about these is our high instructor/helper to student ratio, so if
   anyone with some experience in Python would like to come to these to help out
   on the ground, that would be awesome. The next tutorial is taking place this
-  coming Monday, September 30th, 6:30 - 8:30 PM at <a
-  href="http://cucfablab.org/">the Fab Lab</a>, located at <a
-  href="http://goo.gl/maps/dKuLR">1301 S. Goodwin Ave. in Urbana</a>.
+  coming Monday, September 30th, 6:30 - 8:30 PM at <a href="http://cucfablab.org/">the Fab Lab</a>, located at <a href="http://goo.gl/maps/dKuLR">1301 S. Goodwin Ave. in Urbana</a>.
