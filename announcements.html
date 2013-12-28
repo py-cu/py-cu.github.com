@@ -9,7 +9,7 @@ layout: default
 {% for post in site.posts %}
     {% if i < num_to_show %}
             {% if post.category == 'announcements' %}
-            <p>{{ post.date | date:"%B %d, %Y" }}</p>
+           <h4>{{ post.date | date:"%B %d, %Y" }}</h4>
             <p> {{ post.content }}</p>
             <hr>
             {% assign i = i | plus: 1 %}
