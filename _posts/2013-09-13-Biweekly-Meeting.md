@@ -15,7 +15,7 @@ coffeeshop stand), 6:30 PM - 8:30 PM.
   measure outside temperature and displaying it on an LCD Display</a>. The talk will
   cover
   * Zigbee wireless, using the python-xbee library
-  * <code>struct</code> module from the standard library
+  * ```struct``` module from the standard library
 
 * We'll talk about choosing a new meeting time/day
 
