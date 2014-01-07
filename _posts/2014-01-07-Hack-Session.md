@@ -5,8 +5,9 @@ title: Joint Hack Session and General Meeting
 slug: Join us at the Makerspace for a combined meeting/hack night
 ---
 
-#### Due to the severe weather on Monday, we moved the general meeting to today, combining it with our regular hack night event (7 - 9 PM).  Starting today, we'll be holding all our general meetings at the Makerspace (at the Urbana-Champaign Independent Media Center (basement), 202 S. Broadway Ave.,
-Urbana).
+#### Due to the severe weather on Monday, we moved the general meeting to today, combining it with our regular hack night event (7 - 9 PM).
+
+Also note that starting today, we'll be holding all our general meetings at the Makerspace (at the Urbana-Champaign Independent Media Center (basement), 202 S. Broadway Ave., Urbana).
 
 ### Agenda for today's meeting:
 
