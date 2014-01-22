@@ -17,7 +17,10 @@ Today we followed our new more structured format.
 
 * 10 minutes of group TILing (Today I Learned)
 
-  * Roger talked about using OpenCV to make your laptop's webcam as good as a conventional scanner (where "scanning" means placing your paper kind of by the keyboard and tilting the laptop screen down to point the webcam at the paper), and showed us his script that uses homography to warp the camera image to an "overhead" perspective.
+  * Roger talked about using OpenCV to make your laptop's webcam as good as a
+  * conventional scanner (where "scanning" means placing your paper kind of by
+  * the keyboard and tilting the laptop screen down to point the webcam at the
+  * paper), and showed us his <a href="https://raw2.github.com/py-cu/py-cu.github.com/master/stuff/roger_overhead3.py">script</a> that uses homography to warp the camera image to an "overhead" perspective.
 
 
 * 20 minutes business/boring stuff
