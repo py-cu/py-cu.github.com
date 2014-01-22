@@ -5,23 +5,24 @@ title: Biweekly meeting
 slug: Join us for our next general meeting at ARA!
 ---
 
-Today we'll be following our new more structured format.
+Today we followed our new more structured format.
 
 * 10 minutes for introductions
 
-* 30 minutes for main talk and Q&A
-or
-* 3x10 minutes lightnight talks
+* 30 minutes for main talk and Q&A  or 3x10 minutes lightnight talks
 
-This will be Roger's introduction of the Manual for Py-CU. From the last meeting notes, "The purpose of this document is to capture the necessary steps, leadership experience, etc, about the administrative requirements for running Py-CU, from web administration, group meetings, special events, etc."
+  * Roger introduced the beginnings of the Operations Manual for Py-CU. From the last meeting notes, "The purpose of this document is to capture the necessary steps, leadership experience, etc, about the administrative requirements for running Py-CU, from web administration, group meetings, special events, etc."
 
 * 10 minutes birds of a feather 
 
 * 10 minutes of group TILing (Today I Learned)
 
+  * Roger talked about using OpenCV to make your laptop's webcam as good as a conventional scanner (where "scanning" means placing your paper kind of by the keyboard and tilting the laptop screen down to point the webcam at the paper), and showed us his script that uses homography to warp the camera image to an "overhead" perspective.
+
+
 * 20 minutes business/boring stuff
 
-This will include followup from our meeting with Makerspace Urbana on December 1.
+  * This included followup from our meeting with Makerspace Urbana on December 1.
 
 * 10 minutes planning for next time
 
