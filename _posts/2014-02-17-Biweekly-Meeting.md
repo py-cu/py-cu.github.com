@@ -20,7 +20,7 @@ Steve Granda will demo communicating with an Arduino, a simple microcontroller p
 *Please note that we're now meeting at the Makerspace, as we are more formally associated with them at this point*
 
 
-# Detailed directions to the Makerspace:
+#### Detailed directions to the Makerspace:
 
 The Makerspace is located in the Urbana-Champaign Independent Media Center (basement),
 202 S. Broadway Ave., Urbana
