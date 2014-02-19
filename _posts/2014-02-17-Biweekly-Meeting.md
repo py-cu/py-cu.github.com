@@ -10,6 +10,8 @@ Steve Granda will demo communicating with an Arduino, a simple microcontroller p
 
 Here are the presentation files: <a href="https://raw2.github.com/py-cu/py-cu.github.com/master/stuff/ControllingHardwareWithPython.pdf">PDF</a>; <a href="https://raw2.github.com/py-cu/py-cu.github.com/master/stuff/ControllingHardwareWithPython.pptx">PowerPoint</a>
 
+And here's the Arduino sketch: <a href="https://raw2.github.com/py-cu/py-cu.github.com/master/stuff/pythonlights.ino">pythonlights.ino</a>
+
 ### And, as always:
 
 * Break out into Birds of a Feather groups
