@@ -2,7 +2,7 @@
 layout: default
 category: events
 title: Biweekly meeting
-slug: Join us for our social night, at Quality Bar in downtown Champaign!
+slug: Join us for one of our regular social nights!
 ---
 
 We said we'd do more socializing as a group, so that's the theme of Monday's
