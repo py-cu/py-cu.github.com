@@ -1,12 +1,12 @@
 ---
 layout: default
 category: events
-title: Biweekly meeting
+title: General meeting
 slug: Join us for our next event at the Champaign Public Library!
 ---
 
-Come join us for our third event, Friday, March 15, 2013 in at the
-Champaign Public Library, in the Robeson Pavillion Room C at 6:30 PM
+Come join us at the Champaign Public Library, in the Robeson Pavillion Room C,
+6:30 PM - 8:30 PM. 
 
 Agenda:
 * Opening

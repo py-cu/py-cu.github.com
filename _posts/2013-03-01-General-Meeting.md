@@ -1,7 +1,7 @@
 ---
 layout: default
 category: events
-title: Biweekly Meeting
+title: General Meeting
 slug: Join us for our next event at the Champaign Public Library!
 ---
 

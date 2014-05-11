@@ -1,7 +1,7 @@
 ---
 layout: default
 category: events
-title: Biweekly meeting
+title: General meeting
 slug: Join us for our social night, at Quality Bar in downtown Champaign!
 ---
 

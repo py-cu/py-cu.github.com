@@ -1,7 +1,7 @@
 ---
 layout: default
 category: events
-title: Biweekly Meeting
+title: General Meeting
 ---
 
 Our first meeting will be held at the Champaign Public Library, in

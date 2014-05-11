@@ -1,14 +1,13 @@
 ---
 layout: default
 category: events
-title: Biweekly meeting
+title: General meeting
 slug: Join us for one of our regular social nights!
 ---
 
-We said we'd do more socializing as a group, so that's the theme of Monday's
-meeting!  So come to the Makerspace at 6:30 PM to talk, drink (we'll have
-beverages, but feel free to bring your own -- alcohol is okay), and eat.
-
+Today's meeting will probably be a short one. We'll be discussing moving our
+general meetings to occur once-monthly and probably changing the venue as well
+(hack night time and location will remain the same). 
 
 #### Detailed directions to the Makerspace:
 

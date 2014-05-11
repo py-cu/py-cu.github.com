@@ -1,7 +1,7 @@
 ---
 layout: default
 category: events
-title: Biweekly meeting
+title: General meeting
 slug: Join us for our next event at the Champaign Public Library!
 ---
 
@@ -9,6 +9,7 @@ Come join us at the Champaign Public Library, in the Robeson Pavillion Room C,
 6:30 PM - 8:30 PM. 
 
 Agenda:
+* Opening
 * Lightning Talks
 * Main Talk: (tbd)
 * Birds of a Feather breakout sessions.
