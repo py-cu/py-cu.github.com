@@ -4,5 +4,6 @@
 
 We're awesome, join us at:
 * Hack Night - Every Tuesday 7-9pm at Makerspace (Urbana IMC)
-* Biweekly Meetup - Every other Friday 6:30 - 8:30 PM at Makerspace
+* General Meetings - Once a month, usually on the second Monday, probably at
+the Champaign Public Library, though the venue may change.
 
