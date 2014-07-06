@@ -2,7 +2,7 @@
 layout: default
 category: events
 title: General meeting
-slug: Join us for our June meeting!
+slug: Join us for our July meeting!
 ---
 
 ### When
