@@ -16,7 +16,6 @@ Champaign Public Library, Robeson Pavilion Room **B** (by the coffee shop area i
 * Continuing with the same theme, we'll compare Heroku to <a href="https://www.pythonanywhere.com/">PythonAnywhere</a>, a kind-of-similar-but-not-really web hosting service.
 
 ### Also
-* Py-CU
 * Meetup sponsors
 * Birds of a feather (informal ad-hoc discussion groups)
 * Group TIL-ing (Today I Learned)
