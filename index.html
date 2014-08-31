@@ -19,7 +19,13 @@ layout: default
 
     <div class="span6">
       <div class="well">
-        <h3>Announcements</h3>
+      <div style="float:left">
+            <h3>Announcements</h3>
+        </div>
+        <div style="float:right">
+            <a class="btn btn-primary" href="announcements.html"><span class="btn-label">All announcements</span></a>
+        </div>
+        <div style="clear:both">
             {% assign i = 0 %}
             {% for post in site.posts %}
                 {% if i < 3 %}
@@ -29,15 +35,19 @@ layout: default
                         {% endif %}
                 {% endif %}
             {% endfor %}
-
-
-        <a class="btn btn-primary" href="announcements.html"><span class="btn-label">All announcements</span></a>
+        </div>
       </div>
     </div>
 
     <div class="span6">
       <div class="well">
-        <h3>Recent and upcoming events:</h3>
+      <div style="float:left">
+            <h3>Recent and upcoming events</h3>
+        </div>
+        <div style="float:right">
+            <a class="btn btn-success" href="events.html"><span class="btn-label">All events</span></a>
+        </div>
+        <div style="clear:both">
             {% assign i = 0 %}
             {% for post in site.posts %}
                 {% if i < 2 %}
@@ -48,10 +58,7 @@ layout: default
                     {% endif %}
                 {% endif %}
             {% endfor %}
-
-
-
-        <a class="btn btn-success" href="events.html"><span class="btn-label">All events</span></a>
+        </div>
       </div>
     </div>
 
@@ -59,54 +66,72 @@ layout: default
   <div class="row main-features">
     <div class="span6">
       <div class="well">
-        <h3>General Info</h3>
-        <p>We have two types of regular events:</p>
+        <h3>Meetings</h3>
         <ul>
-            <li><strong>Monthly general
-            meetings</strong> are for presentations and group discussions</li>
-            <li><strong>Weekly hack sessions</strong> are for teaching/learning/discussing anything related
-            to technology</li>
+
+            <li>
+                <strong>Monthly general meetings</strong> are for presentations and group discussions
+            </li>
+
+            <li>
+                <strong>Weekly hack sessions</strong>
+                are for teaching/learning/discussing anything tech
+                    <ul style="font-size: 0.85em;">
+                        <li>Tuesdays, 7 - 9 PM</li>
+                        <li> <a href="http://makerspaceurbana.org/">Urbana Makerspace</a>
+                    (<a href="http://www.ucimc.org/">IMC</a> basement,
+                    <a href="https://www.google.com/maps/place/202+S+Broadway+Ave,+Urbana,+IL+61801/@40.1114134,-88.2068363,17z/data=!3m1!4b1!4m2!3m1!1s0x880cd79ffc64b461:0x4db01f05be68e257">202 S. Broadway Ave., Urbana</a>)
+                    <span style="">
+                    <br>
+                        <img src= "img/label_blue_high_sat_new.png"
+                        width="25px"> <a
+                        href="https://www.youtube.com/watch?v=NtVYBwzWRjY&feature=youtu.be">How
+                        to find the Makerspace - video</a>
+                    </span>
+                    </li>
+                    </ul>
+            </li>
+
         </ul>
-        <a class="btn btn-info" href="about.html"><span class="btn-label">More</span></a>
       </div>
     </div>
 
 
 
     <div class="span6">
-      <div class="well">
-        <h3>Contact Us</h3>
-        <p>Email us at <a href="mailto:info@py-cu.org">info@py-cu.org</a>.</p>
-        <p><a href="http://lists.py-cu.org/listinfo.cgi/py-cu-py-cu.org">Sign
-        up for our mailing list</a>.</p>
-        <p>Join our groups on 
-        <a href="http://www.facebook.com/groups/115113665332255/">Facebook</a>
-        and <a href="http://www.meetup.com/Python-CU/">Meetup</a>.</p>
-        <p>Subscribe to our <a href="{{ site.url }}/feeds/rss.xml">RSS
-        feed</a>.</p>
-        <p> Hit us up on
-        <a href="https://github.com/py-cu">Github</a> or
-        <a href="https://twitter.com/py_cu">Twitter</a>.
-        </p>
-      </div>
+          <div class="well">
+            <h3>Resources</h3>
+            <p>
+                Elizabeth's directory of Python resources:
+                <a href="http://elizabethwickes.wordpress.com/pythonresources/">http://elizabethwickes.wordpress.com/pythonresources/</a>
+            </p>
+            <p>
+                Python beginner tutorials Tumblr (with content ranging beyond the class):
+                <a href="http://py-curious.tumblr.com/">Py-Curious</a>
+            </p>
+            <p>
+                <a href="http://lists.py-cu.org/pipermail/py-cu-py-cu.org/">Our LISTSERV archives</a>
+            </p>
+          </div>
      </div>
+
+
 
      <div class="span6 offset3">
         <div class="well">
-        <h3>Resources</h3>
-            <ul>
-                <li>
-                    Elizabeth's directory of Python resources:
-                    <a href="http://elizabethwickes.wordpress.com/pythonresources/">http://elizabethwickes.wordpress.com/pythonresources/</a>
-                </li>
-                <li>
-                    Python beginner tutorials Tumblr (with content ranging beyond the class):
-                    <a href="http://py-curious.tumblr.com/">Py-Curious</a>
-                </li>
-                <li>
-                    <a href="http://lists.py-cu.org/pipermail/py-cu-py-cu.org/">Our LISTSERV archives</a>
-                </li>
-            </ul>
+            <h3>Contact Us</h3>
+            <p>Email us at <a href="mailto:info@py-cu.org">info@py-cu.org</a>.</p>
+            <p><a href="http://lists.py-cu.org/listinfo.cgi/py-cu-py-cu.org">Sign
+            up for our mailing list</a>.</p>
+            <p>Join our groups on 
+            <a href="http://www.facebook.com/groups/115113665332255/">Facebook</a>
+            and <a href="http://www.meetup.com/Python-CU/">Meetup</a>.</p>
+            <p>Subscribe to our <a href="{{ site.url }}/feeds/rss.xml">RSS
+            feed</a>.</p>
+            <p> Hit us up on
+            <a href="https://github.com/py-cu">Github</a> or
+            <a href="https://twitter.com/py_cu">Twitter</a>.
+            </p>
         <div>
     </div>
 
