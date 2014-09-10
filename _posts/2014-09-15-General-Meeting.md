@@ -12,7 +12,10 @@ September 15, 2014, 6:30 PM - 8:30 PM
 Champaign Public Library, Robeson Pavilion Room **C** (by the coffee shop area in the lobby)
 
 ### Agenda
-* Main presentation: Yang will give a brief introduction to digital signal processing and discuss the popular scientific computing Python libraries, NumPy (http://www.numpy.org/) and SciPy (http://www.scipy.org/), in that context.
+* Main presentation: Yang will give a brief introduction to digital signal
+processing and discuss the popular scientific computing Python libraries, <a
+href="http://www.numpy.org/">NumPy</a> and <a
+href="http://www.scipy.org/">SciPy</a>, in that context.
 * Birds of a feather (informal ad-hoc discussion groups)
 * Group TIL-ing (Today I Learned)
 * Updates on:
