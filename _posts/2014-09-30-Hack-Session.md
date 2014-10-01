@@ -13,3 +13,5 @@ This is a weekly Py-CU event for people to work on projects, seek assistance on
 projects, socialize, plan, and generally enjoy being around people who like to
 code, too. Individuals of all levels of programming experience are encouraged
 to come.
+
+Bonus mini-meetup/demo: digital signal processing in Python
