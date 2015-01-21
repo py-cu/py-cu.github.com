@@ -22,7 +22,7 @@ layout: default
 {% comment %}At most 100 events before right now. {% endcomment %}
 <h4>Past Events</h4>
 <ul>
-  {% for post in site.posts limit:100 %}
+  {% for post in site.posts %}
       {% if post.date < site.time and post.category == 'events' %}
             <li><a href="{{ post.url }}">{{post.date | date:"%B %d, %Y" }}: {{ post.title}}</a> </li>
       {% endif %}
