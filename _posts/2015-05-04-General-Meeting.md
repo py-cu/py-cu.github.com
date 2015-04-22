@@ -15,13 +15,10 @@ Makerspace Urbana (in the basement of the Independent Media Center), 202 South B
 
 # Agenda
 
-### Main presentation: Fanfiction Story Analysis
-
-Main presentation: Django Best Practices we learned from developing the Compass Space Request Application, presented by Yoon Lee
+### Main presentation: Django Best Practices we learned from developing the Compass Space Request Application, presented by Yoon Lee
 
 > After completing the project to develop the Compass Space Request Application, we have learned many lessons and adopted the best practices developing with Django framework. Working on building Django projects last two years, we learned and exhausted many features of Django framework. Starting from demoing the live application, I will cover the following items in the presentation.
 
-> Topics Covered:
 > * Documenting the requirements
 > * Core Concepts of building Django projects
 > * Settings and configuration files
