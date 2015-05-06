@@ -8,9 +8,12 @@ slug: Join us for our next general meeting at the Makerspace
 ### Our main talk:
 Steve Granda will demo communicating with an Arduino, a simple microcontroller popular with hobbyists, using Python. This one of a series of demo-y talks related to using Python to communicate with hardware.
 
-Here are the presentation files: <a href="https://raw2.github.com/py-cu/py-cu.github.com/master/stuff/ControllingHardwareWithPython.pdf">PDF</a>; <a href="https://raw2.github.com/py-cu/py-cu.github.com/master/stuff/ControllingHardwareWithPython.pptx">PowerPoint</a>
+Here are the presentation files: <a
+href="https://github.com/py-cu/py-cu.github.com/raw/master/stuff/ControllingHardwareWithPython.pdf">PDF</a>;
+<a href="https://github.com/py-cu/py-cu.github.com/raw/master/stuff/ControllingHardwareWithPython.pptx">PowerPoint</a>
 
-And here's the Arduino sketch: <a href="https://raw2.github.com/py-cu/py-cu.github.com/master/stuff/pythonlights.ino">pythonlights.ino</a>
+And here's the Arduino sketch: <a
+href="https://github.com/py-cu/py-cu.github.com/raw/master/stuff/pythonlights.ino">pythonlights.ino</a>
 
 ### And, as always:
 
