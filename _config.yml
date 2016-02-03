@@ -2,7 +2,8 @@ afe: true
 source: .
 destination: ./_site
 lsi: false
-pygments: true
+highlighter: true
+future: true
 
 name: Py-CU
 description: Py-CU is Champaign-Urbana's Python User Group
