@@ -1,7 +1,7 @@
 ---
 layout: default
 category: announcements
-title: open hours moving to Saturdays
+title: Open hours moving to Saturdays
 slug: Open hours moving from Tuesdays to Saturdays, 1 - 3 PM at the Makerspace
 ---
 
