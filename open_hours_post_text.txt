@@ -1,8 +1,7 @@
 ---
 layout: default
 category: events
-title: Open Hours
-slug: Share your skills and pick up some new ones at our weekly open hours!
+title: Saturday Open Hours
 ---
 
 #### Share your skills and pick up some new ones at our weekly open hours!

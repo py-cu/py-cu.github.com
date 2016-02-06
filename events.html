@@ -12,7 +12,7 @@ layout: default
         {% if i < num_to_show %}
             {% if post.date >= site.time and post.category == 'events' %}
                     <li><a href="{{ post.url }}"> {{post.date | date:"%B %d, %Y" }}: {{ post.title}} </a>
-                    {{post.slug}}</li>
+                    {{post.title}}</li>
                     {% assign i = i | plus: 1 %}
             {% endif %}
         {% endif %}
@@ -33,7 +33,7 @@ layout: default
 
 <div class="span8">
 {% comment %}
-{% assign i = 0 %}                                                     
+{% assign i = 0 %}
 {% assign num_to_show = 4 %}
 {% endcomment %}
 {% for post in site.posts reversed limit:10 %}
