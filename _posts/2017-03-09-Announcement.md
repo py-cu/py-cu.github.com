@@ -2,11 +2,12 @@
 layout: default
 category: announcements
 title: Dinner, Talk, & Tour at Granular - Thursday, March 9, 2017, 5:30 PM
-slug: Dinner, Talk, & Tour at Granular - Thursday, March 9, 2017, 5:30 PM
+slug: Granular meetup
 ---
 
 <h2>Dinner, Talk, & Tour at Granular</h2>
-Py-CU, along with
+<a href='https://www.meetup.com/Python-CU'>
+Py-CU</a>, along with
  <a href='https://www.meetup.com/CU-Coffeeshop-Coders'>the CU Coffee Shop Coders</a>
  and <a href='https://www.meetup.com/CUDOTNET/'>CU.NET</a> will be hosted by
  <a href='https://www.granular.ag'>Granular</a>
